@@ -1,3 +1,4 @@
+--21-abr-2025
 -- DROP SCHEMA dbo;
 
 CREATE SCHEMA dbo;
